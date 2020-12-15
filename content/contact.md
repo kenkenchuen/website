@@ -2,23 +2,31 @@
 title = "Contact"
 +++
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [k.chuen@columbia.edu](mailto:k.chuen@columbia.edu)
+* Phone: [+1-347-681-6599](tel:+347-681-6599)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 530 W 123rd Street
+> Apt 9
+> New York, NY, 10027
+> United States
+
 >
-> London
+> 530 W 123rd Street
 >
-> United Kingdom
+> Apt 9
+>
+> New York, NY, 10027
+>
+> United States
+>
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [LinkedIn](#)
+2. [Github](#)

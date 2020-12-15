@@ -1,5 +1,5 @@
 title = "Kenneth's Website"
-baseURL = "https://example.com"
+baseURL = "https://kennethchuen.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -9,10 +9,10 @@ googleAnalytics = ""  # add your tracking id
 [params]
   author = "Kenneth Chuen"
   description = "A simple monospaced resume theme for Hugo."
-  favicon = "favicon.ico"  # path to a .ico to use as favicon
-  [params.footer]
-    text = "By Kenneth Chuen"
-    url = "https://github.com/ojroques/hugo-researcher"
+  # favicon = "favicon.ico"  # path to a .ico to use as favicon
+  # [params.footer]
+    # text = "By Kenneth Chuen"
+    # url = "https://github.com/kenkenchuen/website"
 
 [permalinks]
   "/" = "/:filename"
