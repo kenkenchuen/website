@@ -1,4 +1,4 @@
-title = "Kenneth Chuen"
+title = "{{< figure class="avatar" src="/avatar.jpg" >}} Kenneth Chuen"
 baseURL = "https://kennethchuen.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
@@ -7,8 +7,8 @@ math = false          # enable KaTeX (https://katex.org/) globally
 googleAnalytics = ""  # add your tracking id
 
 [params]
-  author = "Kenneth Chuen"
-  description = "A simple monospaced resume theme for Hugo."
+  # author = "Kenneth Chuen"
+  # description = "A simple monospaced resume theme for Hugo."
   # favicon = "favicon.ico"  # path to a .ico to use as favicon
   # [params.footer]
     # text = "By Kenneth Chuen"
