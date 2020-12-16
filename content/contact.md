@@ -9,24 +9,17 @@ title = "Contact"
 
 ## Mailing Address
 
-> 530 W 123rd Street
-> Apt 9
-> New York, NY, 10027
-> United States
-
 >
 > 530 W 123rd Street
 >
 > Apt 9
 >
 > New York, NY, 10027
->
-> United States
 >
 
 ---
 
 ## Social
 
-1. [LinkedIn](#)
-2. [Github](#)
+1. [LinkedIn](linkedin.com/in/kennethchuen)
+2. [Github](github.com/kenkenchuen)

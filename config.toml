@@ -1,4 +1,4 @@
-title = "Kenneth's Website"
+title = "Kenneth Chuen"
 baseURL = "https://kennethchuen.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]

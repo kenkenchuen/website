@@ -1,13 +1,12 @@
 +++
-title = "About"
+title = "Welcome!"
 +++
 
 ## About Me
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+I'm a Software Engineer, with interests in Electrical/Computer Engineering.
 
 ## Classes
 
@@ -44,21 +43,5 @@ Here is a horizontal rule:
 
 ---
 
-Here is a blockquote:
 
-> To a great mind, nothing is little
 
-Here is a `code` block:
-
-```python
-def is_elementary():
-  return True
-```
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
